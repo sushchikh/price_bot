@@ -1,5 +1,5 @@
 # price_bot
-Bot for STRBT, checking adversary price, and send current price to user
+Bot for STRBT, checking adversarys price, and send current price to user
 
 Бот для телеграмма, анализирующий экселевскую таблицу и по запросу пользователя, показывает данные конкретного товара.
 
