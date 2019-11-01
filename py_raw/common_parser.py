@@ -11,7 +11,6 @@
 import pandas as pd
 import requests
 import json
-from collections import Counter
 from bs4 import BeautifulSoup as bs
 
 
@@ -19,14 +18,16 @@ def get_links_from_xlsx(price_dict):
     try:
         name = './../urls/urls.xlsx'
         # считываем из экселся, при этом обозначаем, что значение из столбца id строковое, чтобы не терять нули
-        id_name_urls_dict = pd.read_excel(name, sheet_name='Sheet1', converters={'id': lambda x: str(x)})
+        #  добавить в атрибуты pd.red   converters={'id': lambda x: str(x)}
+        id_name_urls_dict = pd.read_excel(name, sheet_name='Sheet1')
         for i in range(len(id_name_urls_dict['id'])):
-            price_dict[id_name_urls_dict['id'][i]] = []
-            price_dict[id_name_urls_dict['id'][i]].append(id_name_urls_dict['name'][i])
-            price_dict[id_name_urls_dict['id'][i]].append(id_name_urls_dict['strbt_urls'][i])
-            price_dict[id_name_urls_dict['id'][i]].append(id_name_urls_dict['instr_urls'][i])
-            price_dict[id_name_urls_dict['id'][i]].append(0)
-            price_dict[id_name_urls_dict['id'][i]].append(0)
+            id = str(id_name_urls_dict['id'][i])
+            price_dict[id] = []
+            price_dict[id].append(id_name_urls_dict['name'][i])
+            price_dict[id].append(id_name_urls_dict['strbt_urls'][i])
+            price_dict[id].append(id_name_urls_dict['instr_urls'][i])
+            price_dict[id].append(0)
+            price_dict[id].append(0)
     except FileNotFoundError:
         print('Error: no file fith urls in "./../urls/"')
 
@@ -67,12 +68,9 @@ def get_price_from_isntr_site(price_dict):
             price_dict[id][3] = clear_strbt_item_price
 
 
-def push_instr_price_dict_to_json(instr_price_dict):
-    with open("../dats/instr_price.json", "w", encoding='utf-8') as instr_price_json:
-        json.dump(instr_price_dict, instr_price_json, ensure_ascii=False, indent=4)
 
 def push_price_dict_to_json(price_dict):
-    with open("../dats/instr_price.json", "w", encoding='utf-8') as instr_price_json:
+    with open("../dats/prices.json", "w", encoding='utf-8') as instr_price_json:
         json.dump(price_dict, instr_price_json, ensure_ascii=False, indent=4)
 
 
