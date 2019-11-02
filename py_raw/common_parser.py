@@ -43,18 +43,6 @@ def get_price_from_isntr_site(price_dict):
         clear_instr_item_price = ''
         session = requests.Session()
 
-        # блок парсинга инструмента
-        request = session.get(price_dict[id][2], headers=headers)
-        if request.status_code == 200:
-            soup = bs(request.content, 'html.parser')
-            instr_element_price = soup.find('div', class_='product-view__price-value').text
-            for char in instr_element_price:
-                if char.isdigit():
-                    clear_instr_item_price += char
-            price_dict[id][4] = clear_instr_item_price
-        else:
-            print('Connection error, in', price_dict[id][2], 'response =', request.status_code())
-
         # блок парсинга стройбата
         request = session.get(price_dict[id][1], headers=headers)
         if request.status_code == 200:
@@ -66,6 +54,25 @@ def get_price_from_isntr_site(price_dict):
                 if char.isdigit():
                     clear_strbt_item_price += char
             price_dict[id][3] = clear_strbt_item_price
+        else:
+            print('Connection error in strbt url')
+
+        # блок парсинга инструмента
+        if 'http' not in str(price_dict[id][2]):
+            price_dict[id][4] = 'У инструмента такой позиции на сайте нет'
+            continue
+        request = session.get(price_dict[id][2], headers=headers)
+        if request.status_code == 200:
+            soup = bs(request.content, 'html.parser')
+            instr_element_price = soup.find('div', class_='product-view__price-value').text
+            for char in instr_element_price:
+                if char.isdigit():
+                    clear_instr_item_price += char
+            price_dict[id][4] = clear_instr_item_price
+        else:
+            print('Connection error ')#, in', price_dict[id][2], 'response =', request.status_code())
+
+
 
 
 

@@ -13,11 +13,886 @@
         "6460",
         "8500"
     ],
+    "20550": [
+        "Шлифмашина угловая \"GWS 22-180 LVI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/113/5862/",
+        "None",
+        "15280",
+        "У инструмента такой позиции на сайте нет"
+    ],
     "21170": [
         "Шлифмашина угловая \"GWS 22-180 H\" (Bosch) ",
         "https://stroybatinfo.ru/catalog/113/5861/",
         "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/shlifmashina-uglovaya-bosch-gws-22-180-h",
         "6999",
         "8900"
+    ],
+    "35983": [
+        "Шлифмашина угловая \"GWS 20-230 H\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/113/133099/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/shlifmashina-uglovaya-bosch-gws-20-230h",
+        "6750",
+        "8300"
+    ],
+    "63105": [
+        "Шлифмашина угловая \"GWS 19-125 CI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/113/379472/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/slifmasina-uglovaa-bosch-gws-19-125-cl",
+        "11990",
+        "14300"
+    ],
+    "56141": [
+        "Шлифмашина угловая \"GWS 17-125 CIE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/113/346869/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/shlifmashina-uglovaya-bosch-gws-17-125-cle",
+        "9499",
+        "11400"
+    ],
+    "58313": [
+        "Шлифмашина угловая \"GWS 17-125 CI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/113/349208/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/shlifmashina-uglovaya-bosch-gws-17-125-cl",
+        "8199",
+        "10300"
+    ],
+    "13067": [
+        "Шлифмашина угловая \"GWS 15-150 CIH\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/113/5860/",
+        "None",
+        "14290",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "53758": [
+        "Шлифмашина угловая \"GWS 1400\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/113/346877/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/shlifmashina-uglovaya-bosch-gws-1400",
+        "6999",
+        "8700"
+    ],
+    "55552": [
+        "Шлифмашина угловая \"GWS 13-125 CIE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/113/262000/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/shlifmashina-uglovaya-bosch-gws-13-125-cle",
+        "7799",
+        "9800"
+    ],
+    "57137": [
+        "Шлифмашина угловая \"GWS 13-125 CI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/113/263222/",
+        "None",
+        "7790",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "54148": [
+        "Шлифмашина угловая \"GWS 11-125\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/113/260331/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/shlifmashina-uglovaya-bosch-gws-11-125",
+        "5950",
+        "6900"
+    ],
+    "52305": [
+        "Шлифмашина угловая \"GWS 1000\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/113/346876/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/shlifmashina-uglovaya-bosch-gws-1000",
+        "5290",
+        "6300"
+    ],
+    "44112": [
+        "Шлифмашина прямая \"GRO 10,8V-Li solo\" (Bosch) без акумулятора и з/устройства",
+        "https://stroybatinfo.ru/catalog/83/249472/",
+        "https://kirov.instrument.ms/elektroinstrument/shlifovalnye-mashiny/shlifmashiny-pryamye-akkumulyatornye/tm-bosch/akkumulyatornaya-shlifmashina-pryamaya-bosch-gro-10-8-v-li-solo",
+        "6120",
+        "7300"
+    ],
+    "46269": [
+        "Шлифмашина по бетону \"GBR 15 CA\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/106/254700/",
+        "None",
+        "29990",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "73578": [
+        "Шлифмашина вибрационная акк. \"GSS 18V-10\" (Bosch) 18В, колеб.-22000 кол/мин, диап.колеб. - 1,6 мм, без акумулятора и з/устройства, шлифплатформа дельта-100х150, в коробке.",
+        "https://stroybatinfo.ru/catalog/1045/3870717/",
+        "https://kirov.instrument.ms/elektroinstrument/shlifovalnye-mashiny/shlifmashiny-ploskoshlifovalnye-akkumulyatornye/tm-bosch/akkumulatornaa-ploskoslifovalnaa-masina-bosch-gss-18v-10-solo",
+        "5070",
+        "7300"
+    ],
+    "18377": [
+        "Шлифмашина вибрационная \"GSS 23 A\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/107/5835/",
+        "https://kirov.instrument.ms/elektroinstrument/shlifovalnye-mashiny/shlifmashiny-ploskoshlifovalnye/tm-bosch/shlifmashina-ploskoshlifovalnaya-bosch-gss-23-a",
+        "4510",
+        "5100"
+    ],
+    "15287": [
+        "Фрезер \"GKF 600\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/104/5830/",
+        "https://kirov.instrument.ms/elektroinstrument/frezery/tm-bosch/frezer-kromochnyi-bosch-gkf-600",
+        "14320",
+        "15000"
+    ],
+    "31021": [
+        "Фонарь акк. \"GLI 14,4 V-LI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/83/94154/",
+        "None",
+        "2130",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "85700": [
+        "Труборез \"GCO 14-24 J\" (Bosch) 2400 Вт, 355х25,4 мм, 3800 об/мин, глубина пропила 100 мм, плавный пуск, 17 кг, коробка.",
+        "https://stroybatinfo.ru/catalog/94/111357/",
+        "None",
+        "13320",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "79454": [
+        "Стеклоочиститель \"GlassVAC\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/151/97767/",
+        "None",
+        "4490",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "54159": [
+        "Cтанина \"GCR 180\" (Bosch) для дрели алмазного сверления \"GDB 180 WE\"",
+        "https://stroybatinfo.ru/catalog/180/260626/",
+        "None",
+        "57590",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "4127": [
+        "Радио \"GML 10.8 V-Li\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/83/132096/",
+        "https://kirov.instrument.ms/elektroinstrument/radio/tm-bosch/radio-akkumulyatornoe-bosch-gml-10-8-v-li",
+        "7950",
+        "10800"
+    ],
+    "46789": [
+        "Пылесос универсальный \"GAS 35 L SFC\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/151/263507/",
+        "None",
+        "36070",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "38070": [
+        "Пылесос универсальный \"GAS 35 L AFC\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/151/238167/",
+        "None",
+        "42960",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "83830": [
+        "Пылесос универсальный \"GAS 12-25 PL\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/151/107021/",
+        "https://kirov.instrument.ms/kliningovaya-tekhnika/pylesosy/tm-bosch/pylesos-bosch-gas-12-25pl",
+        "15450",
+        "16740"
+    ],
+    "82672": [
+        "Пистолет гор.воздуха \"GHG 23-66\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/100/115784/",
+        "https://kirov.instrument.ms/elektroinstrument/feny-stroitelnye-i-payalnye-pistolety/feny-stroitelnye/tm-bosch/pistolet-goracego-vozduha-bosch-ghg-23-66",
+        "7970",
+        "9500"
+    ],
+    "86557": [
+        "Пистолет гор.воздуха \"GHG 20-63\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/100/115783/",
+        "None",
+        "6720",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "85699": [
+        "Шуруповерт уд. акк. \"GSB 18V-60 C\" (Bosch) 18 В, бесщеточный электродвигатель, 2 аккум. 5 Ач, 0-600/1900 об/мин, 31/60 Нм, патрон до 13 мм, 1,8 кг. L-Boxx.",
+        "https://stroybatinfo.ru/catalog/81/111358/",
+        "None",
+        "21960",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "74490": [
+        "Шуруповерт акк. ударный \"GSB 18 V-EC\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/81/4634073/",
+        "None",
+        "23490",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "40386": [
+        "Шуруповерт уд. акк. \"GSB 10,8-2-LI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/81/242868/",
+        "None",
+        "10220",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "29816": [
+        "Сетевой шуруповерт \"GSR 6-60TE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/116/89613/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-setevye/tm-bosch/shurupovert-bosch-gsr-6-60-te",
+        "12710",
+        "13113"
+    ],
+    "2365": [
+        "Сетевой шуруповерт \"GSR 6-25TE\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/116/5827/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-setevye/tm-bosch/shurupovert-bosch-gsr-6-25-te",
+        "12660",
+        "15700"
+    ],
+    "73588": [
+        "Шуруповерт акк. \"GTB 12 V-11\" (Bosch) 12 V, 0-350/1300 об/мин, 30 Hm, 0,8 кг, коробка , без аккумуляторов.",
+        "https://stroybatinfo.ru/catalog/81/3870719/",
+        "None",
+        "6600",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "40737": [
+        "Шуруповерт акк. \"GSR 36 VE-2-Li\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/81/244066/",
+        "None",
+        "45150",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "84368": [
+        "Шуруповерт акк. \"GSR 18V-60 C\" (Bosch) 18 В, бесщеточный электродвигатель, 2 аккум. 5 Ач, 0-600/1900 об/мин, 31/60 Нм, L-Boxx.",
+        "https://stroybatinfo.ru/catalog/81/116075/",
+        "None",
+        "18150",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "62055": [
+        "Шуруповерт акк. \"GSR 18-2-Li Plus\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/81/349209/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-bosch/akkumulatornyj-surupovert-bosch-gsr-18-2-li-plus-passatizi",
+        "11400",
+        "14700"
+    ],
+    "44123": [
+        "Шуруповерт акк. \"GSR 18 V-EC TE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/81/249474/",
+        "None",
+        "23530",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "72615": [
+        "Шуруповерт акк. \"GSR 18 V-EC FC2\" (Bosch) 18 В, бесщёточный электродвигатель, 0-500/1700 об/мин, 31/50 Нм,без акк и зар. устройства, быстросъемная система FlexiClick, внутренний шестигранник 1/4\", 1 насадка (быстрозажимной сверлильный патрон 13 мм), 1,7 к",
+        "https://stroybatinfo.ru/catalog/81/2886516/",
+        "None",
+        "10920",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "63091": [
+        "Шуруповерт акк. \"GSR 14,4 V-EC FC2\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/81/379782/",
+        "None",
+        "35630",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "89879": [
+        "Шуруповерт акк. \"GSR 12 V-30\" (Bosch) 12 V, беcщеточный мотор, 0-400/0-1600 об/мин, 30 Hm, 2 Li-Ion акк-ра 2,0 Ah., БЗП 10 мм, 0,9 кг, кейс.",
+        "https://stroybatinfo.ru/catalog/81/115810/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-bosch/akkumulatornyj-surupovert-bosch-hd-gsr-12v-30",
+        "6590",
+        "6790"
+    ],
+    "72314": [
+        "Шуруповерт акк. \"GSR 12 V-15FC\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/81/2838265/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-bosch/akkumulatornyj-surupovert-bosch-gsr-18-v-es",
+        "5980",
+        "6200"
+    ],
+    "72895": [
+        "Шуруповерт акк. \"GSR 12 V-15\" (Bosch) 12 V, 0-350/1300 об/мин, 15/30 Hm, 2 Li-Ion акк-ра 2,0 Ah., БЗП 10 мм, 0,8 кг, кейс.",
+        "https://stroybatinfo.ru/catalog/81/7038128/",
+        "None",
+        "6350",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "70427": [
+        "Шуруповерт акк. \"GSR 12 V-15\" (Bosch) 12 В, 0-350/1300 об/мин, 15/30 Нм, БЗП 10 мм, 0,8 кг, коробка , без аккумуляторов и ЗУ.",
+        "https://stroybatinfo.ru/catalog/81/5641761/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-bosch/akkumulyatornyi-shurupovert-bosch-gsr-10-8-v-2-li-solo",
+        "4980",
+        "5800"
+    ],
+    "68705": [
+        "Шуруповерт акк. \"GSR 12 V-15\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/81/387268/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-bosch/akkumulyatornyi-shurupovert-bosch-gsr-10-8-v-2-li-2",
+        "8799",
+        "8200"
+    ],
+    "2253": [
+        "Шлифмашина эксцентриковая \"GEX 150 AC\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/114/7959/",
+        "https://kirov.instrument.ms/elektroinstrument/shlifovalnye-mashiny/shlifmashiny-ekstsentrikovye/tm-bosch/shlifmashina-ekstsentrikovaya-bosch-gex-150-as",
+        "14860",
+        "17300"
+    ],
+    "12308": [
+        "Шлифмашина эксцентриковая \"GEX 125-1 AE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/114/5875/",
+        "https://kirov.instrument.ms/elektroinstrument/shlifovalnye-mashiny/shlifmashiny-ekstsentrikovye/tm-bosch/shlifmashina-ekstsentrikovaya-bosch-gex-125-1-ae",
+        "5290",
+        "6800"
+    ],
+    "3589": [
+        "Шлифмашина эксцентриковая \"GEX 150 Turbo\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/114/5874/",
+        "https://kirov.instrument.ms/elektroinstrument/shlifovalnye-mashiny/shlifmashiny-ekstsentrikovye/tm-bosch/shlifmashina-ekstsentrikovaya-bosch-gex-150-turbo",
+        "27070",
+        "32178"
+    ],
+    "61241": [
+        "Шлифмашина эксцентриковая \"GEX 125-150 AVE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/114/346872/",
+        "None",
+        "19490",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "66394": [
+        "Шлифмашина угловая акк. \"GWS 18-125 V-Li\" (Bosch) 18 В, Li-Ion, 125 мм, 10000 об/мин., без акк. и ЗУ 060193A307",
+        "https://stroybatinfo.ru/catalog/1045/7421557/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye-akkumulyatornye/tm-bosch/akkumulyatornaya-uglovaya-shlifmashina-bosch-gws-18-125-v-li-solo",
+        "13990",
+        "13590"
+    ],
+    "38556": [
+        "Шлифмашина угловая акк. \"GWS 18 V-Li\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/1045/240814/",
+        "None",
+        "24450",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "63061": [
+        "Ш/м угловая аккумуляторная \"GWS 10,8-76 V-EC\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/1045/400839/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye-akkumulyatornye/tm-bosch/akkumulyatornaya-uglovaya-shlifmashina-bosch-gws-10-8-76-v-ec-solo",
+        "8400",
+        "10900"
+    ],
+    "89244": [
+        "Шлифмашина угловая \"GWX 9-125 S\" (Bosch) X-LOCK 900 Вт., 125мм., 2800 – 11000 об/мин., 2,1 кг., коробка. 06017B2000",
+        "https://stroybatinfo.ru/catalog/113/115745/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/slifmasina-uglovaa-x-lock-bosch-hd-gwx-9-125-s",
+        "7390",
+        "8073"
+    ],
+    "87205": [
+        "Шлифмашина угловая \"GWS 9-125\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/113/113423/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/slifmasina-uglovaa-bosch-hd-gws-9-125",
+        "3850",
+        "3850"
+    ],
+    "87206": [
+        "Шлифмашина угловая \"GWS 9-125 S\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/113/113422/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/slifmasina-uglovaa-bosch-hd-gws-9-125-s",
+        "4799",
+        "5800"
+    ],
+    "14107": [
+        "Шлифмашина угловая \"GWS 26-230 LVI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/113/35519/",
+        "None",
+        "20360",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "29853": [
+        "Шлифмашина угловая \"GWS 24-230 LVI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/113/164627/",
+        "None",
+        "16830",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "29338": [
+        "Шлифмашина угловая \"GWS 24-230 JH\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/113/88333/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/shlifmashina-uglovaya-bosch-gws-24-230-jh",
+        "9220",
+        "12500"
+    ],
+    "4549": [
+        "Ножницы вырубные \"GNA 16\" (Bosch) 0601529208",
+        "https://stroybatinfo.ru/catalog/90/5782/",
+        "None",
+        "21660",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "44119": [
+        "Резак акк. \"GOP 14,4V-EC\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/1058/249468/",
+        "None",
+        "18420",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "73476": [
+        "Мультитул акк. \"GOP 12 V-28\" (Bosch) 12 V., безщеточный мотор, 5000-20000об/мин., без акк. и зар. устройства, 1,0 кг., в коробке.",
+        "https://stroybatinfo.ru/catalog/1058/3799047/",
+        "https://kirov.instrument.ms/elektroinstrument/mnogofunktsionalnyi-instrument/rezaki-akkumulyatornye/tm-bosch/akkumulatornyj-universalnyj-rezak-bosch-gop-12-v-28-solo",
+        "9680",
+        "11300"
+    ],
+    "74017": [
+        "Лобзик акк-й \"GST18 V-LI\" (Bosch) 18 В, 2 акк. 5Ач, 0-2700 об/мин, ход 23 мм, в комплекте 3 пилки.",
+        "https://stroybatinfo.ru/catalog/1057/4466352/",
+        "None",
+        "27550",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "73583": [
+        "Лобзик аккумуляторный \"GST 18 V-LI B\" (Bosch) 18 В, 0-2700 ход/мин, SDS система замены полотен, пропил 120 мм, без аккумулятора и з/устройства, коробка",
+        "https://stroybatinfo.ru/catalog/1057/3870712/",
+        "https://kirov.instrument.ms/elektroinstrument/lobziki-i-sabelnye-pily/lobziki-akkumulyatornye/tm-bosch/akkumulyatornyi-lobzik-bosch-gst-18-v-li-b-solo",
+        "14430",
+        "16990"
+    ],
+    "35854": [
+        "Лобзик \"GST 850 BE\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/87/133096/",
+        "https://kirov.instrument.ms/elektroinstrument/lobziki-i-sabelnye-pily/lobziki/tm-bosch/lobzik-bosch-gst-850-be",
+        "6720",
+        "7500"
+    ],
+    "22039": [
+        "Лобзик \"GST 150 BCE\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/87/5768/",
+        "https://kirov.instrument.ms/elektroinstrument/lobziki-i-sabelnye-pily/lobziki/tm-bosch/lobzik-bosch-gst-150-bce",
+        "15200",
+        "17700"
+    ],
+    "87770": [
+        "Дрель ударная \"GSB 20-2\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/86/114876/",
+        "None",
+        "10680",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "22662": [
+        "Дрель ударная \"GSB 19-2 REA\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/86/5763/",
+        "None",
+        "12350",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "6057": [
+        "Дрель ударная \"GSB 1600 RE\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/86/5761/",
+        "https://kirov.instrument.ms/elektroinstrument/dreli-i-miksery/dreli/tm-bosch/drel-udarnaya-bosch-gsb-1600re",
+        "5400",
+        "6200"
+    ],
+    "22613": [
+        "Дрель ударная \"GSB 16 RE\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/86/5759/",
+        "https://kirov.instrument.ms/elektroinstrument/dreli-i-miksery/dreli/tm-bosch/drel-udarnaya-bosch-gsb-16re",
+        "7790",
+        "9200"
+    ],
+    "54161": [
+        "Дрель алмазного сверления \"GDB 180 WE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/180/260622/",
+        "None",
+        "73470",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "4119": [
+        "Резак акк. \"GOP 14,4V-EC\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/1058/249468/",
+        "None",
+        "18420",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "67955": [
+        "Дрель \"GBM 1600 RЕ\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/88/386738/",
+        "None",
+        "10299",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "62923": [
+        "Дрель \"GBM 13-2 RE \" (Bosch)",
+        "https://stroybatinfo.ru/catalog/85/384787/",
+        "https://kirov.instrument.ms/elektroinstrument/dreli-i-miksery/dreli/tm-bosch/drel-bosch-gbm-13-2-re",
+        "13500",
+        "17300"
+    ],
+    "4118": [
+        "Дрель \"GBM 13 HRE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/85/5749/",
+        "None",
+        "16400",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "21648": [
+        "Дрель \"GBM 10 RE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/85/5747/",
+        "https://kirov.instrument.ms/elektroinstrument/dreli-i-miksery/dreli/tm-bosch/drel-bosch-gbm-10-re",
+        "4450",
+        "5600"
+    ],
+    "87250": [
+        "Гайковерт акк. \"GDX 18V-200 C\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/82/115501/",
+        "None",
+        "24490",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "63098": [
+        "Гайковерт акк. \"GDX 18 V-EC\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/82/379494/",
+        "None",
+        "14050",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "72229": [
+        "Гайковерт акк. \"GDX 18 V-EC\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/82/3655280/",
+        NaN,
+        "28210",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "74015": [
+        "Гайковерт акк. \"GDX 14 V-Li\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/82/4466351/",
+        "None",
+        "22820",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "80590": [
+        "Гайковерт акк. \"GDR 180-LI\" (Bosch) 18 В, 0-2800 об/мин, 160 Нм, наружный квадрат на 1/4\", 2 Li-ion акк-ра 3 Ач, 1,7 кг, кейс",
+        "https://stroybatinfo.ru/catalog/82/98985/",
+        "None",
+        "18400",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "2185": [
+        "Гайковерт \"GDS 30\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/846/5745/",
+        "None",
+        "59000",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "4129": [
+        "Бороздодел \"GNF 65 A\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/115/5743/",
+        NaN,
+        "55000",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "1629": [
+        "Бороздодел \"GNF 35 CA\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/115/61621/",
+        NaN,
+        "44000",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "70941": [
+        "Адаптер \"GAA 18 V-24\" (Bosch) 2 выхода USB, для Li-Ion аккумуляторов Bosch 14,4-18 В, зарядный ток 2,4 А или 2x1,2 А, зажим для ремня, 125 г, 1600A00J61",
+        "https://stroybatinfo.ru/catalog/771/6853112/",
+        "None",
+        "1050",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "50398": [
+        "Пила торцовочная \"GCM 800 SJ\"(Bosch) ",
+        "https://stroybatinfo.ru/catalog/94/384525/",
+        "None",
+        "26850",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "18275": [
+        "Пила дисковая \"GKS 190\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/97/5807/",
+        "https://kirov.instrument.ms/elektroinstrument/pily-diskovye/pily-diskovye-setevye/tm-bosch/pila-diskovaya-bosch-gks-190",
+        "7750",
+        "10200"
+    ],
+    "67745": [
+        "Перфоратор акк. \"GBH 36 VF-LI Plus\" (Bosch) 3 режима., 36 V, 2 Li-Ion акк-ра., 4 Аh., 3,2 Дж., 0-940 об/мин., 0-4200 уд/мин, SDS+, система быстрой смены патрона, БЗП, 4,6 кг., L-Boxx. 0611907002",
+        "https://stroybatinfo.ru/catalog/1056/386634/",
+        "None",
+        "57580",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "60779": [
+        "Перфоратор \"GBH 8-45 D\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/92/328014/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-max/tm-bosch/perforator-sds-max-bosch-gbh-8-45-dv",
+        "44100",
+        "57100"
+    ],
+    "14945": [
+        "Перфоратор \"GBH 5-40 DCE\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/92/5803/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-max/tm-bosch/perforator-sds-max-bosch-gbh-5-40dse",
+        "39420",
+        "45900"
+    ],
+    "21508": [
+        "Перфоратор \"GBH 4-32 DFR\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/91/25382/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-setevye/tm-bosch/perforator-sds-bosch-gbh-4-32-dfr",
+        "27600",
+        "29435"
+    ],
+    "17338": [
+        "Перфоратор \"GBH 3-28 DRE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/91/5801/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-setevye/tm-bosch/perforator-sds-bosch-gbh-3-28-dre",
+        "16990",
+        "19900"
+    ],
+    "70142": [
+        "Перфоратор \"GBH 2-28\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/91/442136/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-setevye/tm-bosch/perforator-sds-bosch-gbh-2-28",
+        "11750",
+        "14800"
+    ],
+    "89573": [
+        "Перфоратор \"GBH 2-28\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/91/115649/",
+        "None",
+        "11750",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "69248": [
+        "Перфоратор \"GBH 2-28 F\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/91/387507/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-setevye/tm-bosch/perforator-sds-bosch-gbh-2-28-f",
+        "12450",
+        "16400"
+    ],
+    "884": [
+        "Перфоратор \"GBH 2-26 DRE\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/91/18660/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-setevye/tm-bosch/perforator-sds-bosch-gbh-2-26-dre",
+        "8890",
+        "11700"
+    ],
+    "1473": [
+        "Перфоратор \"GBH 2-26 DFR\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/91/5794/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-setevye/tm-bosch/perforator-sds-bosch-gbh-2-26-dfr-1",
+        "10760",
+        "13600"
+    ],
+    "80983": [
+        "Ножовка сабельная акк. \"GSA 12V-14\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/83/99594/",
+        "None",
+        "8500",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "63101": [
+        "Ножовка сабельная акк. \"GSA 18 V-LI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/83/379467/",
+        "None",
+        "13700",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "28077": [
+        "Ножовка сабельная \"GSA 1100 E\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/99/88328/",
+        "https://kirov.instrument.ms/elektroinstrument/lobziki-i-sabelnye-pily/sabelnye-pily-setevye/tm-bosch/elektropila-sabelnaya-bosch-gsa-1100-e",
+        "10560",
+        "12300"
+    ],
+    "886": [
+        "Отбойный молоток \"GSH 11E\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/89/5784/",
+        "https://kirov.instrument.ms/elektroinstrument/molotki-otboinye/tm-bosch/molotok-otboinyi-bosch-gsh-11e",
+        "42770",
+        "49800"
+    ],
+    "8245": [
+        "Отбойный молоток \"GSH 16-30\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/89/5785/",
+        "None",
+        "66080",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "12201": [
+        "Перфоратор с пылеудалением \"GBH 2-23 REA\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/91/5790/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-setevye/tm-bosch/perforator-sds-bosch-gbh-2-23-rea",
+        "13150",
+        "16500"
+    ],
+    "23979": [
+        "Перфоратор \"GBH 2-20 D\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/91/5789/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-setevye/tm-bosch/perforator-sds-bosch-gbh-2-20-d",
+        "8250",
+        "9600"
+    ],
+    "54228": [
+        "Перфоратор \"GBH 12-52 D\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/92/346865/",
+        "None",
+        "54100",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "66172": [
+        "Пила дисковая \"GKS 600\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/97/384024/",
+        "https://kirov.instrument.ms/elektroinstrument/pily-diskovye/pily-diskovye-setevye/tm-bosch/pila-diskovaya-bosch-gks-600",
+        "7599",
+        "8499"
+    ],
+    "79643": [
+        "Лобзик \"GST 700\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/87/101196/",
+        "None",
+        "4490",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "60148": [
+        "Пылесос универсальный \"GAS 15 PS\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/151/346875/",
+        "https://kirov.instrument.ms/kliningovaya-tekhnika/pylesosy/tm-bosch/pylesos-bosch-gas-15ps",
+        "11590",
+        "11619"
+    ],
+    "83348": [
+        "Гайковерт акк. \"GDS 250-LI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/82/106562/",
+        "None",
+        "21499",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "89576": [
+        "Перфоратор акк. \"GBH 180 LI\" (Bosch) 3 режима., 18 V., 2 Li-Ion акк-ра., 4 Аh., 1,7 Дж., 0-1800 об/мин., 0-4550 уд/мин, SDS+, в комплекте набор буров.",
+        "https://stroybatinfo.ru/catalog/1056/115650/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-akkumulyatornye/tm-bosch/perforator-akkumulatornyj-bosch-gbh-180-li",
+        "20140",
+        "21599"
+    ],
+    "75926": [
+        "Набор аккумуляторный \"Гайковерт GDR120-Li + Шуруповерт GSR 120Li\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/83/101288/",
+        "None",
+        "10720",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "62463": [
+        "Рубанок \"GHO 6500\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/982/373895/",
+        "https://kirov.instrument.ms/elektroinstrument/rubanki/rubanki-setevye/tm-bosch/rubanok-bosch-gho-6500",
+        "8670",
+        "9799"
+    ],
+    "88043": [
+        "Шуруповерт акк. \"GSR 180 LI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/81/115278/",
+        "None",
+        "8490",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "68446": [
+        "Шуруповерт акк. \"GSR 180 LI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/81/387085/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-bosch/akkumulyatornyi-shurupovert-bosch-gsr-180-li",
+        "7100",
+        "8199"
+    ],
+    "81257": [
+        "Гайковерт акк. \"GDX 180-LI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/82/100283/",
+        NaN,
+        "18990",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "66976": [
+        "Шлифмашина угловая \"GWS 750-125\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/113/386800/",
+        "None",
+        "3690",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "68445": [
+        "Шуруповерт акк. \"GSR 140 LI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/81/387084/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-bosch/akkumulyatornyi-shurupovert-bosch-gsr-140-li",
+        "6350",
+        "7399"
+    ],
+    "90150": [
+        "Шуруповерт акк. \"GSR 120-LI\" (Bosch) 12 V, 0-380/1300 об/мин, 2 Li-Ion акк-ра 2 Ah., 30 Нм, БЗП 10 мм, 0,8 кг, подсветка, кейс.",
+        "https://stroybatinfo.ru/catalog/81/115950/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-bosch/akkumulatornyj-surupovert-bosch-pro-gsr-120-li",
+        "5310",
+        "5301"
+    ],
+    "68793": [
+        "Шуруповерт акк. \"GSR 120-LI\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/81/387269/",
+        "None",
+        "5250",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "62464": [
+        "Отбойный молоток \"GSH 501\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/89/379478/",
+        "https://kirov.instrument.ms/elektroinstrument/molotki-otboinye/tm-bosch/molotok-otboinyi-bosch-gsh-501",
+        "25600",
+        "28199"
+    ],
+    "87968": [
+        "Фрезер \"GKF 550\" (Bosch) 550 Вт., 33000 об/мин., цанга 6 мм, 1,4 кг., в коробке.",
+        "https://stroybatinfo.ru/catalog/104/115134/",
+        "https://kirov.instrument.ms/elektroinstrument/frezery/tm-bosch/frezer-kromocnyj-bosch-gkf-550",
+        "5350",
+        "5599"
+    ],
+    "72792": [
+        "Перфоратор \"GBH 2-24 DFR\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/91/3655281/",
+        "None",
+        "10160",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "48105": [
+        "Дрель \"GBM 6 RE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/85/254694/",
+        "None",
+        "3590",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "70544": [
+        "Перфоратор \"GBH 2-24 DRE\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/91/3870721/",
+        "None",
+        "7690",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "11601": [
+        "Дрель ударная \"GSB 13 RE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/86/5757/",
+        "None",
+        "4170",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "14882": [
+        "Дрель ударная \"GSB 13 RE\" (Bosch)",
+        "https://stroybatinfo.ru/catalog/86/5758/",
+        "None",
+        "3699",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "79179": [
+        "Отвертка акк. \"Bosch GO\" (Bosch) 3,6 В, зарядка через Micro-USB, регулировка крутящего момента, индикатор заряда, реверс + набор бит.",
+        "https://stroybatinfo.ru/catalog/81/95929/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/akkumulyatornye-otvertki/tm-bosch/akkumulatornaa-otvertka-bosch-go-kit",
+        "3300",
+        "3299"
+    ],
+    "62465": [
+        "Ш/м угловая \"GWS 660\" (Bosch) ",
+        "https://stroybatinfo.ru/catalog/113/373896/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/shlifmashina-uglovaya-bosch-gws-660-1",
+        "2630",
+        "2999"
     ]
 }

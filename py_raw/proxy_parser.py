@@ -16,8 +16,8 @@ import datetime as dt
 
 proxy_list_url = 'https://hidemy.name/ru/proxy-list/?maxtime=500&type=s&anon=4#list'
 proxy_list_url = 'https://spys.one/sslproxy/'
-proxy_list_url = 'https://194.226.34.132:5555'
-proxy_list_url = 'http://foxtools.ru/Proxy?al=True&am=True&ah=True&ahs=True&http=True&https=True'
+proxy_list_url = 'https://198.211.96.170:3128'
+# proxy_list_url = 'http://foxtools.ru/Proxy?al=True&am=True&ah=True&ahs=True&http=False&https=True'
 
 # proxy_list_url = 'https://habr.com/ru/flows/geektimes/'
 headers = {
@@ -31,7 +31,7 @@ def get_list_of_proxys(proxy_list_url, headers):
     request = session.get(proxy_list_url, headers=headers)
     print(request.status_code)
     if request.status_code == 200:
-        soup = bs(request.content, 'html.parser')
+        # soup = bs(request.content, 'html.parser')
         print('Welldone')
     else:
         print('Connection error, cant reach proxy list site')
