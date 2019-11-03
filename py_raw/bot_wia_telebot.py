@@ -99,6 +99,6 @@ def send_text(message):
 
 @bot.message_handler(commands=['start'])
 def start_message(message):
-    bot.send_message(message.chat.id, 'Привет, ты написал мне /start', reply_markup=keyboard1)
+    bot.send_message(message.chat.id, 'Привет, напиши код товара и я покажу цену в стройбате и в инструменте.', reply_markup=keyboard1)
 
 bot.polling()
