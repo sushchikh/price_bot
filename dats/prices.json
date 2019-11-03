@@ -17,7 +17,7 @@
         "Шлифмашина угловая \"GWS 22-180 LVI\" (Bosch)",
         "https://stroybatinfo.ru/catalog/113/5862/",
         "None",
-        "15280",
+        0,
         "У инструмента такой позиции на сайте нет"
     ],
     "21170": [
@@ -283,7 +283,7 @@
         "Шуруповерт акк. \"GSR 14,4 V-EC FC2\" (Bosch)",
         "https://stroybatinfo.ru/catalog/81/379782/",
         "None",
-        "35630",
+        0,
         "У инструмента такой позиции на сайте нет"
     ],
     "89879": [
@@ -894,5 +894,733 @@
         "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-bosch/shlifmashina-uglovaya-bosch-gws-660-1",
         "2630",
         "2999"
+    ],
+    "21037": [
+        "Шлифмашина угловая \"GA 5030\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/113/5973/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-makita/slifmasina-uglovaa-makita-ga-5030-x3",
+        "3890",
+        "4390"
+    ],
+    "33945": [
+        "Шлифмашина угловая \"GA 4530\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/113/130820/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-makita/shlifmashina-uglovaya-makita-ga-4530",
+        "3780",
+        "4191"
+    ],
+    "14440": [
+        "Шлифмашина угловая \"9565 НZ\" (Makita)",
+        "https://stroybatinfo.ru/catalog/113/97938/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-makita/shlifmashina-uglovaya-makita-9565-nz",
+        "6380",
+        "6990"
+    ],
+    "89493": [
+        "Ш/м угловая \"9558 HPG\" (Makita)",
+        "https://stroybatinfo.ru/catalog/113/115640/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-makita/slifmasina-uglovaa-makita-9558hpg",
+        "4799",
+        "6090"
+    ],
+    "89673": [
+        "Шлифмашина угловая \"9558 HNK6\" (Makita) 840 Вт., 125 мм., 10000 об/мин., 1,6 кг. пластиковый кейс.",
+        "https://stroybatinfo.ru/catalog/113/115710/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-makita/shlifmashina-uglovaya-makita-9558-nnk",
+        "5970",
+        "5991"
+    ],
+    "33037": [
+        "Шлифмашина угловая \"9558 HNK\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/113/100821/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-makita/shlifmashina-uglovaya-makita-9558-nnk",
+        "5800",
+        "5991"
+    ],
+    "13887": [
+        "Шлифмашина угловая \"9557 HN01\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/113/5970/",
+        "None",
+        "4850",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "1559": [
+        "Шлифмашина угловая \"9069\" (Makita)",
+        "https://stroybatinfo.ru/catalog/113/5967/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-makita/shlifmashina-uglovaya-makita-9069",
+        "7440",
+        "7491"
+    ],
+    "52987": [
+        "Шлифмашина угловая \"9069 F\" (Makita)",
+        "https://stroybatinfo.ru/catalog/113/260598/",
+        "None",
+        "7740",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "74425": [
+        "Шлифмашина прямая \"GD 0800C\" (Makita)",
+        "https://stroybatinfo.ru/catalog/112/4613354/",
+        "None",
+        "15700",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "73091": [
+        "Шлифмашина полировальная \"SA 5040 C\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/111/5800238/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-makita/shlifmashina-uglovaya-makita-ga-5040c",
+        "11240",
+        "11091"
+    ],
+    "1574": [
+        "Шлифмашина ленточная \"9911\" (Makita)",
+        "https://stroybatinfo.ru/catalog/110/5966/",
+        "https://kirov.instrument.ms/elektroinstrument/shlifovalnye-mashiny/shlifmashiny-lentochnye/tm-makita/shlifmashina-lentochnaya-makita-9911",
+        "8620",
+        "9990"
+    ],
+    "2041": [
+        "Шлифмашина ленточная \"9910\" (Makita)",
+        "https://stroybatinfo.ru/catalog/110/5965/",
+        "https://kirov.instrument.ms/elektroinstrument/shlifovalnye-mashiny/shlifmashiny-lentochnye/tm-makita/shlifmashina-lentochnaya-makita-9910",
+        "7460",
+        "8391"
+    ],
+    "22159": [
+        "Шлифмашина вибрационная \"ВО 3711\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/107/5962/",
+        "https://kirov.instrument.ms/elektroinstrument/shlifovalnye-mashiny/shlifmashiny-ploskoshlifovalnye/tm-makita/shlifmashina-ploskoshlifovalnaya-makita-bo-3711",
+        "4700",
+        "5290"
+    ],
+    "24175": [
+        "Шлифмашина вибрационная \"ВО 3710\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/107/5961/",
+        "https://kirov.instrument.ms/elektroinstrument/shlifovalnye-mashiny/shlifmashiny-ploskoshlifovalnye/tm-makita/shlifmashina-ploskoshlifovalnaya-makita-bo-3710",
+        "4120",
+        "4650"
+    ],
+    "40245": [
+        "Фрезер \"RT 0700CX2\" (Makita)",
+        "https://stroybatinfo.ru/catalog/104/242277/",
+        "https://kirov.instrument.ms/elektroinstrument/frezery/tm-makita/frezer-kromocnyj-makita-rt0700cx2",
+        "13700",
+        "15390"
+    ],
+    "80559": [
+        "Фрезер \"RT 0700C\" (Makita) 710 Вт, 10000-30000 об/мин., цанга 6-8 мм., 1,8 кг, коробка, прямая направляющая.",
+        "https://stroybatinfo.ru/catalog/104/98867/",
+        "None",
+        "7360",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "44570": [
+        "Фрезер \"RP 2301 FCX\" (Makita)",
+        "https://stroybatinfo.ru/catalog/104/249476/",
+        "None",
+        "25680",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "37443": [
+        "Фрезер \"RP 2300 FC\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/104/240851/",
+        "https://kirov.instrument.ms/elektroinstrument/frezery/tm-makita/frezer-makita-rp-2300-fc",
+        "22980",
+        "25791"
+    ],
+    "79727": [
+        "Фрезер \"RP 1801 F\" (Makita) 1650 Вт, 22000 об/мин., ход 0-70 мм., цанга 12 мм., 6 кг, плавный пуск",
+        "https://stroybatinfo.ru/catalog/104/97181/",
+        "https://kirov.instrument.ms/elektroinstrument/frezery/tm-makita/frezer-makita-rp-1801-f",
+        "22280",
+        "24490"
+    ],
+    "1131": [
+        "Фрезер \"RP 1110 C\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/104/5959/",
+        "https://kirov.instrument.ms/elektroinstrument/frezery/tm-makita/frezer-makita-rp-1110-c",
+        "20740",
+        "23590"
+    ],
+    "72932": [
+        "Фрезер \"RP 0900\" (Makita)",
+        "https://stroybatinfo.ru/catalog/104/3303463/",
+        "None",
+        "8299",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "46078": [
+        "Фрезер \"3612С\" (Makita)",
+        "https://stroybatinfo.ru/catalog/104/251425/",
+        "https://kirov.instrument.ms/elektroinstrument/frezery/tm-makita/frezer-makita-3612-s",
+        "22670",
+        "24591"
+    ],
+    "51569": [
+        "Устройство воздуходувное \"UB1103\" (Makita)",
+        "https://stroybatinfo.ru/catalog/234/257202/",
+        "None",
+        "5800",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "65725": [
+        "Труборез \"LW1400\" (Makita)",
+        "https://stroybatinfo.ru/catalog/96/383715/",
+        "None",
+        "15490",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "83175": [
+        "Шуруповерт акк. ударный \"DTD 154 Z\" (Makita) 18В, без аккумулятора и зар. устройства, 0-1100\\2100\\3600 об\\м, 175 Нм, шестигранник 1/4\", 1,5 кг, кейс.",
+        "https://stroybatinfo.ru/catalog/81/106140/",
+        "None",
+        "10200",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "83173": [
+        "Шуруповерт акк. ударный \"DTD 154 RFE\" (Makita) 18В, 2х3АчLi-ion, 0-1100\\2100\\3600 об\\м, 175 Нм, шестигранник 1/4\", 1,5 кг, кейс.",
+        "https://stroybatinfo.ru/catalog/81/106139/",
+        "None",
+        "22990",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "32197": [
+        "Шуруповерт сетевой \"TD0101F\" (Makita)  ",
+        "https://stroybatinfo.ru/catalog/116/97351/",
+        "None",
+        "5610",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "57570": [
+        "Шуруповерт сетевой \"TD0101\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/116/263801/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-setevye/tm-makita/udarnyi-shurupovert-makita-td-0101",
+        "5590",
+        "6090"
+    ],
+    "81136": [
+        "Шуруповерт сетевой ударный \"TD0100\" (Makita)",
+        "https://stroybatinfo.ru/catalog/116/100125/",
+        "None",
+        "5320",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "89494": [
+        "Шуруповерт сетевой \"DF0300\" (Makita)",
+        "https://stroybatinfo.ru/catalog/116/115641/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-setevye/tm-makita/surupovert-makita-df0300",
+        "3750",
+        "4200"
+    ],
+    "72674": [
+        "Шуруповерт акк. \"DF 457 DWLE\" (Makita)",
+        "https://stroybatinfo.ru/catalog/81/2983550/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-makita/akkumulyatornyi-shurupovert-makita-df-457-dwle",
+        0,
+        "10590"
+    ],
+    "67923": [
+        "Шуруповерт акк. \"DF 457 DWE\" (Makita)",
+        "https://stroybatinfo.ru/catalog/81/386651/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-makita/akkumulyatornyi-shurupovert-makita-df-457-dwe",
+        "7960",
+        "8190"
+    ],
+    "67920": [
+        "Шуруповерт акк. \"DF 347 DWE\" (Makita)",
+        "https://stroybatinfo.ru/catalog/81/386649/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-makita/akkumulyatornyi-shurupovert-makita-df-347-dwe",
+        "6910",
+        "7090"
+    ],
+    "90344": [
+        "Шуруповерт акк. \"DF 333 DWYE\" (Makita) 12 В, Li-Ion, 0-450/1700 об/мин, 14-30 Hm, БЗП 10 мм, 2 акк Li-Ion 1,5 ah, 1,1 кг, кейс.",
+        "https://stroybatinfo.ru/catalog/81/116059/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-makita/akkumulatornyj-surupovert-makita-df-333-dwye",
+        "5440",
+        "6591"
+    ],
+    "62806": [
+        "Шуруповерт акк. \"DF 331 DWYE\" (Makita)",
+        "https://stroybatinfo.ru/catalog/81/380839/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-makita/akkumulyatornyi-shurupovert-makita-df-331-dwye",
+        "5990",
+        "5252"
+    ],
+    "63822": [
+        "Шуруповерт акк. \"DDF 481 RTE\" (Makita) 18 В, Li-Ion, 2 аккум. 5 Ач, б/щеточный двигатель, 0-550/2100 об/мин, 60-115 Hm, БЗП 13 мм, 2.6 кг, кейс.",
+        "https://stroybatinfo.ru/catalog/81/380219/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-makita/akkumulyatornyi-shurupovert-makita-ddf-481-rte",
+        "30390",
+        "33891"
+    ],
+    "63820": [
+        "Шуруповерт акк. \"DDF 480 RME\" (Makita)",
+        "https://stroybatinfo.ru/catalog/81/380218/",
+        "None",
+        "22450",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "73224": [
+        "Шуруповерт акк. \"DDF 453 RFE\" (Makita) 18 В, Li-Ion, 0-400/0-1300 об/мин, 27-42 Hm, БЗП 13 мм, 2 акк, 3.0 ah, кейс, 1,8 кг.",
+        "https://stroybatinfo.ru/catalog/81/95933/",
+        "https://kirov.instrument.ms/elektroinstrument/shurupoverty-i-otvertki/shurupoverty-akkumulyatornye/tm-makita/akkumulyatornyi-shurupovert-makita-ddf-453-rfe",
+        "11790",
+        "11890"
+    ],
+    "69962": [
+        "Шуруповерт акк. \"DDF 451 RFE\" (Makita) 18В,2х3АчLi-ion,БЗП-13мм,0-300\\0-600\\0-1700об\\м,80\\40Нм,2.1кг,чем,подсв,совмест с 4АчLi-ion",
+        "https://stroybatinfo.ru/catalog/81/98475/",
+        "None",
+        "21450",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "37610": [
+        "Шлифмашина эксцентриковая \"ВО 5031\" (Makita)",
+        "https://stroybatinfo.ru/catalog/114/240854/",
+        "None",
+        "5870",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "27791": [
+        "Шлифмашина эксцентриковая \"ВО 5030\" (Makita)",
+        "https://stroybatinfo.ru/catalog/114/35525/",
+        "https://kirov.instrument.ms/elektroinstrument/shlifovalnye-mashiny/shlifmashiny-ekstsentrikovye/tm-makita/shlifmashina-ekstsentrikovaya-makita-bo-5030",
+        "5240",
+        "5800"
+    ],
+    "31612": [
+        "Шлифмашина щеточная \"9741\" (Makita)",
+        "https://stroybatinfo.ru/catalog/110/132105/",
+        "https://kirov.instrument.ms/elektroinstrument/shlifovalnye-mashiny/shlifmashiny-shchetochnye/tm-makita/shlifmashina-shchetochnaya-makita-9741",
+        "28490",
+        "31990"
+    ],
+    "80505": [
+        "Шлифмашина угловая аккум. \"DGA504RF\" (Makita) 18В, аккумулятор 1х3Ач Li-ion, 125 мм.",
+        "https://stroybatinfo.ru/catalog/1045/98868/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye-akkumulyatornye/tm-makita/akkumulatornaa-uglovaa-slifmasina-makita-dga-504-rf",
+        "10990",
+        "11133"
+    ],
+    "32364": [
+        "Шлифмашина угловая \"GA 9050 \" (Makita)",
+        "https://stroybatinfo.ru/catalog/113/98230/",
+        "None",
+        "7100",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "5502": [
+        "Шлифмашина угловая \"GA 9020 \" (Makita)",
+        "https://stroybatinfo.ru/catalog/113/7965/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-makita/shlifmashina-uglovaya-makita-ga-9020",
+        "7700",
+        "7690"
+    ],
+    "5256": [
+        "Шлифмашина угловая \"GA 9020 SF\" (Makita)",
+        "https://stroybatinfo.ru/catalog/113/87229/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-makita/shlifmashina-uglovaya-makita-ga-9020-sf",
+        "8420",
+        "8391"
+    ],
+    "35452": [
+        "Шлифмашина угловая \"GA 7050\" (Makita)",
+        "https://stroybatinfo.ru/catalog/113/132104/",
+        "None",
+        "6990",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "29497": [
+        "Шлифмашина угловая \"GA 6021 С\" (Makita)",
+        "https://stroybatinfo.ru/catalog/113/87396/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-makita/shlifmashina-uglovaya-makita-ga-6021-s",
+        "11110",
+        "12390"
+    ],
+    "90225": [
+        "Шлифмашина угловая \"GA 5040R\" (Makita) 1100 Вт, 125 мм, 11000 об/м, муфта SJSII,anti-restart, плавный пуск 2.5 кг, коробка.",
+        "https://stroybatinfo.ru/catalog/113/115945/",
+        "None",
+        "7270",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "64821": [
+        "Шлифмашина угловая \"GA 5034\" (Makita)",
+        "https://stroybatinfo.ru/catalog/113/380835/",
+        "https://kirov.instrument.ms/elektroinstrument/ushm-bolgarki/shlifmashiny-uglovye/tm-makita/shlifmashina-uglovaya-makita-ga-5034",
+        "4130",
+        "4590"
+    ],
+    "34790": [
+        "Шлифмашина угловая \"GA 5030К\" (Makita)",
+        "https://stroybatinfo.ru/catalog/113/130821/",
+        "None",
+        "4610",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "63877": [
+        "Перфоратор \"HR 4003 C\" (Makita)",
+        "https://stroybatinfo.ru/catalog/92/380201/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-max/tm-makita/perforator-sds-max-makita-hr-4003-s",
+        "34540",
+        "37191"
+    ],
+    "11014": [
+        "Перфоратор \"HR 2470\" (Makita)",
+        "https://stroybatinfo.ru/catalog/91/5934/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-setevye/tm-makita/perforator-sds-makita-hr-2470",
+        "8180",
+        "8590"
+    ],
+    "11015": [
+        "Перфоратор \"HR 2470 FT\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/91/5933/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-setevye/tm-makita/perforator-sds-makita-hr-2470-ft",
+        "12540",
+        "12990"
+    ],
+    "32222": [
+        "Отбойный молоток \"HМ 1203 С\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/89/97679/",
+        "None",
+        "38430",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "73023": [
+        "Отбойный молоток \"HМ 1101 С\" (Makita)",
+        "https://stroybatinfo.ru/catalog/89/3303456/",
+        "None",
+        "35420",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "29293": [
+        "Отбойный молоток \"HМ 0870 С\" (Makita)",
+        "https://stroybatinfo.ru/catalog/89/88123/",
+        "https://kirov.instrument.ms/elektroinstrument/molotki-otboinye/tm-makita/molotok-otboinyi-makita-hm-0870-c",
+        "26640",
+        "29790"
+    ],
+    "32304": [
+        "Ножовка сабельная \"JR 3060 T\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/99/98214/",
+        "https://kirov.instrument.ms/elektroinstrument/lobziki-i-sabelnye-pily/sabelnye-pily-setevye/tm-makita/elektropila-sabelnaa-makita-jr-3060-t",
+        "14140",
+        "15790"
+    ],
+    "73090": [
+        "Ножовка сабельная \"JR 3050 T\" (Makita)",
+        "https://stroybatinfo.ru/catalog/99/3303455/",
+        "https://kirov.instrument.ms/elektroinstrument/lobziki-i-sabelnye-pily/sabelnye-pily-setevye/tm-makita/elektropila-sabelnaa-makita-jr-3050-t",
+        "9640",
+        "10590"
+    ],
+    "41545": [
+        "Ножницы листовые \"JS 1602\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/90/244746/",
+        "None",
+        "19180",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "12187": [
+        "Лобзик \"4350 FCT\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/87/18667/",
+        "https://kirov.instrument.ms/elektroinstrument/lobziki-i-sabelnye-pily/lobziki/tm-makita/lobzik-makita-4350-fct",
+        "11080",
+        "12291"
+    ],
+    "33944": [
+        "Лобзик \"4350 CT\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/87/130818/",
+        "https://kirov.instrument.ms/elektroinstrument/lobziki-i-sabelnye-pily/lobziki/tm-makita/lobzik-makita-4350-ct",
+        "10650",
+        "11890"
+    ],
+    "10842": [
+        "Лобзик \"4329\" (Makita)  ",
+        "https://stroybatinfo.ru/catalog/87/5925/",
+        "https://kirov.instrument.ms/elektroinstrument/lobziki-i-sabelnye-pily/lobziki/tm-makita/lobzik-makita-4329-kh1",
+        "4190",
+        "4176"
+    ],
+    "32274": [
+        "Лобзик \"4329 K\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/87/98211/",
+        "https://kirov.instrument.ms/elektroinstrument/lobziki-i-sabelnye-pily/lobziki/tm-makita/lobzik-makita-4329-kx1",
+        "4600",
+        "4641"
+    ],
+    "10841": [
+        "Лобзик \"4327\" (Makita)",
+        "https://stroybatinfo.ru/catalog/87/5924/",
+        "https://kirov.instrument.ms/elektroinstrument/lobziki-i-sabelnye-pily/lobziki/tm-makita/lobzik-makita-4327",
+        "3790",
+        "4191"
+    ],
+    "12908": [
+        "Лобзик \"4326\" (Makita)",
+        "https://stroybatinfo.ru/catalog/87/18666/",
+        "https://kirov.instrument.ms/elektroinstrument/lobziki-i-sabelnye-pily/lobziki/tm-makita/lobzik-makita-4326",
+        "3560",
+        "3840"
+    ],
+    "1595": [
+        "Дрель ударная \"HP 2050\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/86/18665/",
+        "https://kirov.instrument.ms/elektroinstrument/dreli-i-miksery/dreli/tm-makita/drel-udarnaya-makita-nr-2050",
+        "7850",
+        "8790"
+    ],
+    "22550": [
+        "Дрель ударная \"HP 1640 \" (Makita)",
+        "https://stroybatinfo.ru/catalog/86/5919/",
+        "https://kirov.instrument.ms/elektroinstrument/dreli-i-miksery/dreli/tm-makita/drel-udarnaya-makita-hp-1640",
+        "4390",
+        "4491"
+    ],
+    "26651": [
+        "Дрель \"DP 4010 \" (Makita) ",
+        "https://stroybatinfo.ru/catalog/85/35695/",
+        "None",
+        "8240",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "10736": [
+        "Дрель \"6413\" (Makita)",
+        "https://stroybatinfo.ru/catalog/85/89453/",
+        "https://kirov.instrument.ms/elektroinstrument/dreli-i-miksery/dreli/tm-makita/drel-makita-6413",
+        "3220",
+        "3550"
+    ],
+    "1418": [
+        "Дрель \"6408\" (Makita)",
+        "https://stroybatinfo.ru/catalog/85/5915/",
+        "https://kirov.instrument.ms/elektroinstrument/dreli-i-miksery/dreli/tm-makita/drel-makita-6408",
+        "5220",
+        "5290"
+    ],
+    "87928": [
+        "Гайковерт акк.\"DTW 285 RFJX\" (Makita) BL-мотор (бесщеточный), 18 В, 2х3 Ач Li-Ion, 0-1800/2600/3500 уд/мин, 280 Нм, хвостовик 1/2\", 1,7 кг, подсветка, набор головок, кейс MakPac.",
+        "https://stroybatinfo.ru/catalog/82/115095/",
+        "None",
+        "27870",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "69478": [
+        "Гайковерт акк.\"DTW 1001 RTJ\" (Makita) 18 В, бесщеточный двигатель, 2х5 Ач Li-Ion, 0-900/1000/1800 об/мин, 0-1800/2000/2200 уд/мин, 1050 Нм, наружный квадрат 3/4\", 3,4 кг, кейс.",
+        "https://stroybatinfo.ru/catalog/82/95931/",
+        "None",
+        "40600",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "11071": [
+        "Гайковерт ударный \"TW1000\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/846/36947/",
+        "None",
+        "53620",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "2043": [
+        "Гайковерт ударный \"TW0350\" (Makita)",
+        "https://stroybatinfo.ru/catalog/846/86536/",
+        "https://kirov.instrument.ms/elektroinstrument/gaikoverty/gaikoverty-setevye/tm-makita/gaikovert-udarnyi-makita-tw0350",
+        "17360",
+        "19390"
+    ],
+    "13174": [
+        "Гайковерт ударный \"TW0200\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/846/87778/",
+        "https://kirov.instrument.ms/elektroinstrument/gaikoverty/gaikoverty-setevye/tm-makita/gaikovert-udarnyi-makita-tw0200",
+        "16820",
+        "18790"
+    ],
+    "32368": [
+        "Рубанок \"KP0810C\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/982/255591/",
+        "https://kirov.instrument.ms/elektroinstrument/rubanki/rubanki-setevye/tm-makita/rubanok-makita-kp-0810-c",
+        "16460",
+        "18390"
+    ],
+    "53818": [
+        "Пылесос универсальный \"VC 2512L\" (Makita)",
+        "https://stroybatinfo.ru/catalog/151/260151/",
+        "https://kirov.instrument.ms/kliningovaya-tekhnika/pylesosy/tm-makita/pylesos-makita-vc-2512l",
+        "11820",
+        "11129"
+    ],
+    "2034": [
+        "Труборез \"2414 NB\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/96/5956/",
+        "https://kirov.instrument.ms/stanki/mashiny-otreznye-po-metallu/tm-makita/otreznaya-pila-po-metallu-makita-2414-nb",
+        "13490",
+        "12409"
+    ],
+    "4025": [
+        "Гайковерт ударный \"6906\" (Makita)",
+        "https://stroybatinfo.ru/catalog/846/35694/",
+        "None",
+        "31710",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "42017": [
+        "Рубанок \"KP0810\" (Makita)",
+        "https://stroybatinfo.ru/catalog/982/255590/",
+        "https://kirov.instrument.ms/elektroinstrument/rubanki/rubanki-setevye/tm-makita/rubanok-makita-kp-0810",
+        "15110",
+        "16690"
+    ],
+    "41546": [
+        "Рубанок \"KP 0800\" (Makita)",
+        "https://stroybatinfo.ru/catalog/982/255589/",
+        "https://kirov.instrument.ms/elektroinstrument/rubanki/rubanki-setevye/tm-makita/rubanok-makita-kp-0800",
+        "9020",
+        "8991"
+    ],
+    "2824": [
+        "Рубанок \"1911 B\" (Makita)  ",
+        "https://stroybatinfo.ru/catalog/982/255588/",
+        "https://kirov.instrument.ms/elektroinstrument/rubanki/rubanki-setevye/tm-makita/rubanok-makita-1911-v",
+        "14140",
+        "16690"
+    ],
+    "2033": [
+        "Станок рейсмусный \"2012 NB\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/185/60860/",
+        "https://kirov.instrument.ms/stanki/stanki-reismusovye-i-strogalnye/tm-makita/stanok-derevoobrabatyvayushchii-reismusovyi-makita-2012-nb",
+        "40880",
+        "40679"
+    ],
+    "54013": [
+        "Пылесос универсальный \"VC 3011L\" (Makita)",
+        "https://stroybatinfo.ru/catalog/151/260333/",
+        "https://kirov.instrument.ms/kliningovaya-tekhnika/pylesosy/tm-makita/pylesos-makita-vc-3011l",
+        "17750",
+        "16219"
+    ],
+    "51720": [
+        "Пистолет горячего воздуха \"HG 651 C\" (Makita)",
+        "https://stroybatinfo.ru/catalog/100/258661/",
+        "None",
+        "7720",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "35453": [
+        "Пистолет горячего воздуха \"HG 551 VK\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/100/132103/",
+        "https://kirov.instrument.ms/elektroinstrument/feny-stroitelnye-i-payalnye-pistolety/feny-stroitelnye/tm-makita/pistolet-goryachego-vozdukha-makita-hg-551-vk",
+        "5420",
+        "5991"
+    ],
+    "21020": [
+        "Пистолет горячего воздуха \"HG 5012К\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/100/5949/",
+        "https://kirov.instrument.ms/elektroinstrument/feny-stroitelnye-i-payalnye-pistolety/feny-stroitelnye/tm-makita/pistolet-goryachego-vozdukha-makita-hg-5012-k",
+        "3550",
+        "3891"
+    ],
+    "27939": [
+        "Пистолет горячего воздуха \"HG 5012\" (Makitа)",
+        "https://stroybatinfo.ru/catalog/100/95840/",
+        "None",
+        "3250",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "64860": [
+        "Пила цепная \"UC 4041 A\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/98/380834/",
+        "None",
+        "8620",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "63168": [
+        "Пила цепная \"UC 3541 A\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/98/379500/",
+        "https://kirov.instrument.ms/vse-dlya-sada/pily-tsepnye/tsepnye-elektropily/tm-makita/elektropila-tsepnaya-makita-uc-3541-a",
+        "8070",
+        "7690"
+    ],
+    "57571": [
+        "Пила цепная \"UC 3041 A\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/98/263797/",
+        "https://kirov.instrument.ms/vse-dlya-sada/pily-tsepnye/tsepnye-elektropily/tm-makita/elektropila-tsepnaya-makita-uc-3041-a",
+        "7730",
+        "7490"
+    ],
+    "2122": [
+        "Пила торцовочная \"LS 1040\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/94/5941/",
+        "https://kirov.instrument.ms/stanki/pily-tortsovochnye/tm-makita/pila-tortsovochnaya-makita-ls-1040",
+        "18400",
+        "17061"
+    ],
+    "40424": [
+        "Пила торцовочная \"LS 1018L\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/94/247228/",
+        "None",
+        "31970",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "35458": [
+        "Пила торцовочная \"LH 1040\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/94/132102/",
+        "https://kirov.instrument.ms/stanki/pily-tortsovochnye/tm-makita/pila-tortsovochnaya-kombinirovannaya-makita-ln-1040",
+        "28920",
+        "26740"
+    ],
+    "63155": [
+        "Пила погружная \"SP6000\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/97/379499/",
+        "None",
+        "21100",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "73086": [
+        "Пила дисковая по алюминию\"CA 5000 XJ\" (Makita)",
+        "https://stroybatinfo.ru/catalog/97/3303460/",
+        "None",
+        "30990",
+        "У инструмента такой позиции на сайте нет"
+    ],
+    "60669": [
+        "Пила дисковая \"HS7601\" (Makita)",
+        "https://stroybatinfo.ru/catalog/97/326467/",
+        "https://kirov.instrument.ms/elektroinstrument/pily-diskovye/pily-diskovye-setevye/tm-makita/pila-diskovaya-makita-hs7601",
+        "8490",
+        "8129"
+    ],
+    "70537": [
+        "Пила дисковая \"HS6601\" (Makita)",
+        "https://stroybatinfo.ru/catalog/97/822828/",
+        "https://kirov.instrument.ms/elektroinstrument/pily-diskovye/pily-diskovye-setevye/tm-makita/pila-diskovaa-makita-hs6601",
+        "8090",
+        "7890"
+    ],
+    "37655": [
+        "Пила дисковая \"5477 NB\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/97/229230/",
+        "https://kirov.instrument.ms/elektroinstrument/pily-diskovye/pily-diskovye-setevye/tm-makita/pila-diskovaya-makita-5477-nb",
+        "12780",
+        "14391"
+    ],
+    "21849": [
+        "Пила дисковая \"5008 MG\" (Makita) ",
+        "https://stroybatinfo.ru/catalog/97/7964/",
+        "https://kirov.instrument.ms/elektroinstrument/pily-diskovye/pily-diskovye-setevye/tm-makita/pila-diskovaya-makita-5008-mg",
+        "11040",
+        "12390"
+    ],
+    "80431": [
+        "Перфоратор аккумуляторный \"DHR 202RF\" (Makita)",
+        "https://stroybatinfo.ru/catalog/1056/98474/",
+        "https://kirov.instrument.ms/elektroinstrument/perforatory/perforatory-sds-akkumulyatornye/tm-makita/perforator-akkumulatornyj-makita-dhr-202-rf",
+        "9680",
+        "9561"
+    ],
+    "66332": [
+        "Перфоратор \"HR 4013 C\" (Makita) 1100 Вт.,SDS max, 9,5 Дж,235-480 об/мин, 6,3кг, чем.",
+        "https://stroybatinfo.ru/catalog/92/95932/",
+        "None",
+        "38560",
+        "У инструмента такой позиции на сайте нет"
     ]
 }

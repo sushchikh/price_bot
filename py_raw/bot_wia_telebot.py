@@ -75,7 +75,10 @@ def send_text(message):
         print(message.text)
         id = str(int(message.text))  # убираем первые ноли, если пользователь ввел код в формте 00001234*
         # print(prices_dict.get(id))
-        output_message = str(str(request_id)+ "\n" + prices_dict[id][0]) + '\n' + 'Cтройбат: ' + str(prices_dict[id][3]) + ' .р' + '\n' + 'Инструмент: ' + str(prices_dict[id][4] + ' .p')
+        if str(prices_dict[id][4]) == 'У инструмента такой позиции на сайте нет':
+            output_message = str(str(request_id)+ "\n" + prices_dict[id][0]) + '\n' + 'Cтройбат: ' + str(prices_dict[id][3]) + ' .р' + '\n' + 'У инструмента такой позиции на сайте нет')
+        else:
+            output_message = str(str(request_id)+ "\n" + prices_dict[id][0]) + '\n' + 'Cтройбат: ' + str(prices_dict[id][3]) + ' .р' + '\n' + 'Инструмент: ' + str(prices_dict[id][4] + ' .p')
         bot.send_message(message.chat.id, output_message)
     except ValueError:
         bot.send_message(message.chat.id, 'Вы ввели не код товара')

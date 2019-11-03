@@ -44,19 +44,21 @@ def get_price_from_isntr_site(price_dict):
         session = requests.Session()
 
         # блок парсинга стройбата
-        request = session.get(price_dict[id][1], headers=headers)
-        if request.status_code == 200:
-            soup = bs(request.content, 'html.parser')
-            strbt_element_name = soup.find('h1', itemprop='name').text
-            price_dict[id][0] = strbt_element_name
-            strbt_element_price = soup.find('span', class_='price').text
-            for char in strbt_element_price:
-                if char.isdigit():
-                    clear_strbt_item_price += char
-            price_dict[id][3] = clear_strbt_item_price
-        else:
-            print('Connection error in strbt url')
-
+        try:
+            request = session.get(price_dict[id][1], headers=headers)
+            if request.status_code == 200:
+                soup = bs(request.content, 'html.parser')
+                strbt_element_name = soup.find('h1', itemprop='name').text
+                price_dict[id][0] = strbt_element_name
+                strbt_element_price = soup.find('span', class_='price').text
+                for char in strbt_element_price:
+                    if char.isdigit():
+                        clear_strbt_item_price += char
+                price_dict[id][3] = clear_strbt_item_price
+            else:
+                print('Connection error in strbt url')
+        except:
+            print('что-то пошло не так')
         # блок парсинга инструмента
         if 'http' not in str(price_dict[id][2]):
             price_dict[id][4] = 'У инструмента такой позиции на сайте нет'
